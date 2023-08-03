@@ -1,0 +1,1 @@
+import type {NextraThemeLayoutProps} from "nextra"
